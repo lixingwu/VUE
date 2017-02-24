@@ -1,10 +1,11 @@
 # my-vue
 
-> 因为没有UI设计的，所以界面非常的粗糙。这个页面主要是显示功能方面
+> 因为没有UI设计的原因，所以界面非常的粗糙。这个页面主要是显示功能方面
 
 ## 用VUE+webpack+vue-router+axios写的豆瓣小demo
 
 ``` bash
+# 到根目录下 my-vue
 # install dependencies
 npm install
 
