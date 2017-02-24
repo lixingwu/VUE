@@ -1,8 +1,8 @@
 # my-vue
 
-> A Vue.js project
+> 因为没有UI设计的，所以界面非常的粗糙。这个页面主要是显示功能方面
 
-## Build Setup
+## 用VUE+webpack+vue-router+axios写的豆瓣小demo
 
 ``` bash
 # install dependencies
